@@ -1,0 +1,5 @@
+-c --cpu Cortex-M4.fp -D__MICROLIB -g -O2 --apcs=interwork -I ..\..\Library\UsbHostLib\inc -I ..\..\Library\CMSIS\Include -I ..\..\ThirdParty\lwIP\src\include -I ..\..\ThirdParty\FreeRTOS\Source\portable\RVDS\ARM_CM4F -I ..\..\Library\StdDriver\inc -I ..\..\Library\Device\Nuvoton\M480\Include -I ..\..\ThirdParty\FreeRTOS\Source\include -I ..\..\ThirdParty\FreeRTOS\Demo\Common\include -I ..\..\board_lwip\include -I ..\..\LwIP_HID_Server --diag_suppress=550,177,C4017,111
+-IC:\Keil_v5\ARM\RV31\INC
+-IC:\Keil_v5\ARM\CMSIS\Include
+-D__UVISION_VERSION="527" -DRVDS_ARMCM4_NUC4xx
+-o .\obj\sys.o --omf_browse .\obj\sys.crf --depend .\obj\sys.d --feedback ".\obj\LwIP_TCP_EchoServer.fed" "..\..\Library\StdDriver\src\sys.c"

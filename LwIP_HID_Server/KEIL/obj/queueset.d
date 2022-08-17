@@ -1,0 +1,16 @@
+.\obj\queueset.o: ..\..\ThirdParty\FreeRTOS\Demo\Common\Minimal\QueueSet.c
+.\obj\queueset.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\obj\queueset.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+.\obj\queueset.o: ..\..\ThirdParty\FreeRTOS\Source\include\FreeRTOS.h
+.\obj\queueset.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\obj\queueset.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\queueset.o: ..\..\LwIP_HID_Server\FreeRTOSConfig.h
+.\obj\queueset.o: ..\..\ThirdParty\FreeRTOS\Source\include\projdefs.h
+.\obj\queueset.o: ..\..\ThirdParty\FreeRTOS\Source\include\portable.h
+.\obj\queueset.o: ..\..\ThirdParty\FreeRTOS\Source\include\deprecated_definitions.h
+.\obj\queueset.o: ..\..\ThirdParty\FreeRTOS\Source\portable\RVDS\ARM_CM4F\portmacro.h
+.\obj\queueset.o: ..\..\ThirdParty\FreeRTOS\Source\include\mpu_wrappers.h
+.\obj\queueset.o: ..\..\ThirdParty\FreeRTOS\Source\include\task.h
+.\obj\queueset.o: ..\..\ThirdParty\FreeRTOS\Source\include\list.h
+.\obj\queueset.o: ..\..\ThirdParty\FreeRTOS\Source\include\queue.h
+.\obj\queueset.o: ..\..\ThirdParty\FreeRTOS\Demo\Common\include\QueueSet.h
