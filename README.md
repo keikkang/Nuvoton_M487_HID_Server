@@ -28,5 +28,5 @@
  -->
 ## Reference
 <!-- Write the way to contribute -->
- - [Client](https://yhkim4504.tistory.com/2) #Using Python
- - [Server](https://github.com/OpenNuvoton/M480BSP) #BSP
+ - (https://yhkim4504.tistory.com/2) - Client Side Daemon thread
+ - (https://github.com/OpenNuvoton/M480BSP) - BSP
