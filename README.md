@@ -5,7 +5,7 @@
   - [Client Command](#client-command)
   - [Reference](#reference)
   
-## System Arch
+## System Preview
 ![image](https://user-images.githubusercontent.com/108905975/185017083-88404179-c6af-482a-b80c-656b0135556b.png)
 
 
