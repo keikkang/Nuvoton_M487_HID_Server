@@ -38,5 +38,4 @@
  -->
 ## Reference
 <!-- Write the way to contribute -->
- - (https://yhkim4504.tistory.com/2) - Client Side Daemon thread
  - (https://github.com/OpenNuvoton/M480BSP) - BSP
