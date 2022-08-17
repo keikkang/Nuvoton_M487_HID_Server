@@ -12,7 +12,7 @@
 ## Description
 <!--Wirte one paragraph of project description -->  
 - This S/W acts as a TCP/IP HID server.  
-- Allows the user to directly control the usb-level hardware input, not the software-level, using TCP/IP packets.
+- Allows the user to directly control the usb-level hardware input, not the SYSTEM API-level, using TCP/IP packets.
 - It can be used as a bypass bank security program or game guard.  
 
 ## Enviorment
