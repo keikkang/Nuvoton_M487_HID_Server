@@ -6,7 +6,7 @@
   - [Reference](#reference)
   
 ## System Arch
-![image](https://user-images.githubusercontent.com/108905975/185016987-7fe0fed8-6764-4787-91cc-f9191c3f8b06.png)
+![image](https://user-images.githubusercontent.com/108905975/185017083-88404179-c6af-482a-b80c-656b0135556b.png)
 
 
 ## Description
