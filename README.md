@@ -1,17 +1,32 @@
-# Nuvoton_M487_HID_Server
+# Lwip HID Server
+## Index
+  - [Description](#description) 
+  - [Enviorment](#enviorment) 
+  - [Client Command](#client-command)
+  - [Reference](#reference)
 
-H/W : NuMakerr-IoT-M487 Board  
-IDE : Keil uVision  
-Middleware : Lwip / FreeRtos      
-USB : HID 1.1  
+## Description
+<!--Wirte one paragraph of project description -->  
+- This S/W acts as a TCP/IP HID server.  
+- Allows the user to directly control the usb-level hardware input, not the software-level, using TCP/IP packets.
+- It can be used as a bank security program or game guard bypass macro.  
 
-This project acts as a TCP/IP server.   
-Default local ip address is '192.168.0.83'  
+## Enviorment
+<!-- Write enviromnet about this project -->
+- Hardware : Nuvoton-IoT M487 
+- Middleware : Lwip, FreeRTOS 
+- IDE : ARM Keil uvision 5.36.0.0
+- USB : HID Class(1.1ver)
 
-Please refer to the Key Hooker project as a client role.  
-
-Client side Command : 'KEY''DELAY_TIME''_COMMAND'  
-For example "A9_COMMAND" means key input 'A' for 900ms  
-
-It can be used as a bank security program or game guard bypass macro.  
-Thank you.  
+## Client Command 
+ - Client command consists of three parameters
+ - 'inputkey' + 'delaytime' + "command dir' 
+ - For example "A9_COMMAND" means "A" for "900ms" 
+<!--
+## Deployment
+ Add additional notes about how to deploy this on a live system
+ -->
+## Reference
+<!-- Write the way to contribute -->
+ - [Client](https://yhkim4504.tistory.com/2) #Using Python
+ - [Server](https://github.com/OpenNuvoton/M480BSP) #BSP
