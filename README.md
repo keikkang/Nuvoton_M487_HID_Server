@@ -20,7 +20,7 @@
 - Hardware : Nuvoton-IoT M487 
 - Middleware : Lwip, FreeRTOS 
 - IDE : ARM Keil uvision 5.36.0.0
-- USB : HID Class(1.1ver)
+- USB : HID (class 1.1)
 
 ## Client Command 
  - Client command consists of three parameters
