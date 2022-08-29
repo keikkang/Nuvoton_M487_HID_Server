@@ -1,7 +1,6 @@
 # Lwip HID Server
 ## Index
   - [Description](#description)
-  - [Started](#started)
   - [Enviorment](#enviorment) 
   - [Client Command](#client-command)
   - [Reference](#reference)
